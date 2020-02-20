@@ -1,0 +1,13 @@
+# Python generated files
+__pycache__
+
+# Data Folders
+data
+log
+output
+
+# IDE generated files
+.idea
+
+# External files
+bin

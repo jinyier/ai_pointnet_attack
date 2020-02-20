@@ -1,0 +1,11 @@
+airplane
+bed
+bottle
+car
+chair
+cup
+monitor
+piano
+sofa
+table
+toilet
