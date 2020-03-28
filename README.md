@@ -1,5 +1,9 @@
 # Adversarial Attack against 3D Point Cloud Classifier
 
+This repository is the code release of our AAAI'20 paper,
+"Robust Adversarial Objects against Deep Learning Models",
+which can be found [here](http://jin.ece.ufl.edu/papers/AAAI2020_PointNet_CR.pdf).
+
 ## Introduction
 
 In this work, we proposed an adversarial attack against PointNet++, a 3D point
