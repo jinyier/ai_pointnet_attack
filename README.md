@@ -2,7 +2,7 @@
 
 This repository is the code release of our AAAI'20 paper,
 "Robust Adversarial Objects against Deep Learning Models",
-which can be found [here](http://jin.ece.ufl.edu/papers/AAAI2020_PointNet_CR.pdf).
+and the paper can be found [here](http://jin.ece.ufl.edu/papers/AAAI2020_PointNet_CR.pdf).
 
 ## Introduction
 
@@ -62,7 +62,7 @@ For more information, see [here](https://github.com/charlesq34/pointnet2#shape-c
 Move the uncompressed data folder to `$PROJECT_ROOT/data/modelnet40_normal_resampled`.
 
 ### Training and Evaluation
-We have already provided trained models used in our paper in `graph/` directory, which are
+We have already provided the trained models used in our paper in `graph/` directory, which are
 PointNet++ with Single Scale Grouping (SSG). If you want to train your own model, please refer to
 [PointNet++ repository](https://github.com/charlesq34/pointnet2#usage) for more information.
 
